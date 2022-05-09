@@ -1,5 +1,4 @@
-# Customized-Calendar
-Users can add, delete, modify, and search for the events they created in the GUI
+# Customized-Calendar  
 ![image](https://user-images.githubusercontent.com/89577799/167335469-d17a9fae-d4cc-44aa-bcde-8d871bd006c7.png)
 ## Tutorial of this customized calendar
 <details open="open">
@@ -29,7 +28,7 @@ Users can add, delete, modify, and search for the events they created in the GUI
 </details>
 
 # __Introduction__
-This repository is a tutorial for the __Customized Calendar__ using python.
+This repository is a tutorial for the __Customized Calendar__ using python. Users can add, delete, modify, and search for the events they created in the GUI.
 # __The GUI__
 This __Graphical User Interface__ is convenient and easily used for every users.
 # __The Instructions for using this GUI__
