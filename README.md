@@ -29,6 +29,6 @@ This __Graphical User Interface__ is convenient and easily used for every users.
 * Below the calendar, there are two buttons. The __Add__ button is for adding new events into the calendar. Afetr pressing the __Add__ button, you will see the following window.  
 ![image](https://user-images.githubusercontent.com/89577799/167347447-0b204e9f-c9d9-47ec-9529-155ac1de7812.png)  
 You can type up __the time slot__ and __the name of the event__    
-![image](https://user-images.githubusercontent.com/89577799/167348764-49b489bb-2a13-428f-bef3-c51b0b1da62b.png)   
+![image](https://user-images.githubusercontent.com/89577799/167348835-614bc8ab-c69c-4984-a11b-8149ff4a4537.png)  
 After adding the event into the calendar, the color of the date will change, and you can see the details of the event on the left-hand-side.
 # __The csv file used in this calendar__
