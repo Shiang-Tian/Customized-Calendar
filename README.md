@@ -43,7 +43,7 @@ After adding the event into the calendar, the color of the date will change, and
 ## __Left-hand-side__
 * The left-hand-side of this interface is the details of the events at the specific date, and there are four buttons below.  
 ### __Buttons__
-`Delete`  
+#### __Delete__  
 Fist, select an event you want to delete, and press the delete button.
 ![image](https://user-images.githubusercontent.com/89577799/167351638-b38660d0-7503-41f3-ad22-efce9cf4e994.png)  
 After pressing the button, you will see the following window:  
