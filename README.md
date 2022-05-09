@@ -17,7 +17,12 @@ Users can add, delete, modify, and search for the events they created in the GUI
       <a href="#the-instructions-for-using-this-GUI">The Instructions for using this GUI</a>
       <ul>
         <li><a href="#right-hand-side">Right-hand-side</a></li>
-        <li><a href="#left-hand-side">Left-hand-side</a></li>
+        <li><a href="#left-hand-side">Left-hand-side</a>
+          <ul>
+            <li><a href="#buttons">Buttons</a></li>
+          </ul>
+        </li>
+        
       </ul>
     </li>
     <li><a href="#the-csv-file-used-in-this-calendar">The csv file used in this calendar</a></li>
@@ -38,6 +43,7 @@ You can type up __the time slot__ and __the name of the event__
 After adding the event into the calendar, the color of the date will change, and you can see the details of the event on the left-hand-side.
 ## __Left-hand-side__
 * The left-hand-side of this interface is the details of the events at the specific date, and there are four buttons below.  
+### __Buttons__
 `Delete`  
 Fist, select an event you want to delete, and press the delete button.
 ![image](https://user-images.githubusercontent.com/89577799/167351638-b38660d0-7503-41f3-ad22-efce9cf4e994.png)  
