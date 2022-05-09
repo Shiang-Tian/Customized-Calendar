@@ -38,9 +38,16 @@ You can type up __the time slot__ and __the name of the event__
 After adding the event into the calendar, the color of the date will change, and you can see the details of the event on the left-hand-side.
 ## __Left-hand-side__
 * The left-hand-side of this interface is the details of the events at the specific date, and there are four buttons below.  
-`__Delete__`  
-`__Load__`  
-`__Modify__`  
-`__Search__`  
+`Delete`  
+Fist, select an event you want to delete, and press the delete button.
+![image](https://user-images.githubusercontent.com/89577799/167351638-b38660d0-7503-41f3-ad22-efce9cf4e994.png)  
+After pressing the button, you will see the following window:  
+![image](https://user-images.githubusercontent.com/89577799/167351832-2f24ab70-9338-4dca-849b-6c141ddf46e8.png)
+Typing up the event name, and press the __Delete__ button
+`Load`  
+
+`Modify`
+
+`Search`  
   
 # __The csv file used in this calendar__
