@@ -25,6 +25,7 @@ This repository is a tutorial for the __Customized Calendar__ using python.
 # __The GUI__
 This __Graphical User Interface__ is convenient and easily used for every users.
 # __The Instructions for using this GUI__
+## __Right-hand-side__
 * The right-hand-side of this interface is the calendar, default is today's date. As you can see, today's date is 2022/5/9.
 * Below the calendar, there are two buttons. The __Add__ button is for adding new events into the calendar. Afetr pressing the __Add__ button, you will see the following window.  
 ![image](https://user-images.githubusercontent.com/89577799/167347447-0b204e9f-c9d9-47ec-9529-155ac1de7812.png)  
