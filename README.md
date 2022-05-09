@@ -53,15 +53,21 @@ After adding the event into the calendar, the color of the date will change, and
 * If adding an event into the calendar at 2022/5/22, closing the program and re-running it again and pressing the __Load__ button, it will show the event you added and how many days left of the event.  
 ![image](https://user-images.githubusercontent.com/89577799/167354073-df236a5a-438f-46eb-abcc-d2ee45f6b5b1.png)  
 ### __Modify__  
-After you add the new event into the calendar, but you want to modify the time slot, you can use this button to revise the time.  
+After you add the new event to the calendar, but you want to modify the time slot, you can use this button to revise the time.  
 
 * First, double-click with the left mouse button on the event. Second, you press the __Modify__ button.
 ![image](https://user-images.githubusercontent.com/89577799/167433357-08e0c8b8-5d88-4eb4-8a84-9c6e3740431b.png) 
-* Afetr pressing the __Modify__ button, the following window will show up, you can type up the time slot you want.  
+* After pressing the __Modify__ button, the following window will show up, you can type up the time slot you want.  
 __Note__: The name of the event's name should be the same  
 ![image](https://user-images.githubusercontent.com/89577799/167434398-fa261941-d611-43de-9d2e-ae72c8af6fd9.png)  
-* Afetr pressing the __Modify__ button, the time slot is changed.
+* After pressing the __Modify__ button, the time slot is changed.
 ![image](https://user-images.githubusercontent.com/89577799/167435229-6daa97b4-6acf-45c9-a980-7039ebae4103.png)  
-### __Search__  
-  
+### __Search__ 
+After you add the events into so many days, but you forget which event is on which day, then you can use the __Search__ button to do that  
+* As you can see, there are three days have the event on the calendar. You remember you have the shooting day, but you forget which day, so just press the __Search__ button 
+![image](https://user-images.githubusercontent.com/89577799/167438743-f9fcac4c-0868-4979-a08e-b3f165481430.png)  
+* After pressing the __Search__ button, you will see the folowing window:
+![image](https://user-images.githubusercontent.com/89577799/167439592-7e4b6b43-0325-408f-bb46-1161418c9e80.png)  
+* Then you type the event's name, and press the __Search__ button, it will tell you on what day you will have the shooting day  
+![image](https://user-images.githubusercontent.com/89577799/167439797-6b55c538-3edb-4b40-a7a5-89115ec33469.png)  
 # __The csv file used in this calendar__
