@@ -7,8 +7,7 @@ Users can add, delete, modify, and search for the events they created in the GUI
   <ol>
     <li>
       <a href="#introduction">Introduction</a>
-      <ul>
-        <li><a href="#the-barter-exchange">The Barter Exchange</a></li>
+      <ul> 
     </li>
       </ul>
     <li>
@@ -29,20 +28,7 @@ Users can add, delete, modify, and search for the events they created in the GUI
 </details>
 
 # __Introduction__
-This repository is a tutorial for the implementation of __The newsvendor problem with barter exchange__ based on the design of the paper _"The newsvendor problem with barter exchange"_  by [Hua, G., Zhang, Y., Chang, T.C.E, Wang, S., & Zhang, J. (2020)]("https://www.sciencedirect.com/science/article/abs/pii/S0925527313001837?via%3Dihub"). I wrote this tutorial as a showcase of application for the course "_Operations Research Applications and Implementation_" intructed by professor _Chia-Yen Lee_.  
-## __The Barter Exchange__
-> The barter exchange is an alternative to move distressed inventory, it has become increasingly popular in business. Many companies barter their unsold product for the product they need via barter exchange platforms at full prices.  
-__There are two basic types of barter:__  
-(1) Personal barter and retail barter  
-(2) Commercial barter    
-> We only focus on the __commercial barter__ in this tutorial  
-> __The trade sequence is as follows:__  
-> __Step 1:__  
-> `Firm A` registers on a barter exchange platform and provides some essential information, the broker of the platform will help `Firm A` to find `Firm B` that exactly needs the product of `Firm A` and that provides the product that `Firm A` exactly needs.  
-> __Step 2:__  
-> `Firm A` and `Firm B` can trade their product `without money`, and pay the broker a commission  that typically is about `5% - 15%` of the trade value.  
-> 
-> __The aim of the barter is to maintain trade volumes and balance them while maximizing the utility of the participants.__  
+This repository is a tutorial for the Customized Calendar using python.
 # __The Model__
 * We consider the `single-period` inventory (newsvendor) problem with barter exchange from the retailer's perspective, in which the customer's demand is `stochastic` and characterized by a `random variable`. The retailer determines the optimal stocking policy to satisfy the customer demand at the beginning of the selling season.  
 * Suppose the retailer purchases only a single product A from the supplier, and the retail price is set by the supplier or the market. This problem is to decide the optimal order quantity to `maximize its own expected profit`.  
