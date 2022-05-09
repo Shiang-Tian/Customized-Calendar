@@ -11,14 +11,13 @@ Users can add, delete, modify, and search for the events they created in the GUI
     </li>
       </ul>
     <li>
-      <a href="#the-gui">The GUI</a>
-      <ul>
-      </ul>
+      <a href="#the-gui">The GUI</a> 
     </li>
     <li>
       <a href="#the-instructions-for-using-this-GUI">The Instructions for using this GUI</a>
       <ul>
         <li><a href="#right-hand-side">Right-hand-side</a></li>
+        <li><a href="#left-hand-side">Left-hand-side</a></li>
       </ul>
     </li>
     <li><a href="#the-csv-file-used-in-this-calendar">The csv file used in this calendar</a></li>
@@ -37,4 +36,5 @@ This __Graphical User Interface__ is convenient and easily used for every users.
 You can type up __the time slot__ and __the name of the event__    
 ![image](https://user-images.githubusercontent.com/89577799/167348835-614bc8ab-c69c-4984-a11b-8149ff4a4537.png)  
 After adding the event into the calendar, the color of the date will change, and you can see the details of the event on the left-hand-side.
+## __Left-hand-side__
 # __The csv file used in this calendar__
