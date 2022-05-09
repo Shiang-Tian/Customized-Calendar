@@ -54,13 +54,13 @@ If adding an event into the calendar at 2022/5/22, and press the load button, it
 ### __Modify__  
 Afetr you add the new event into the calendar, but you want to modify the time slot, you can use this button to revise the time.  
 
-First, double-click with the left mouse button on the event. Second, you press the __Modify__ button.
+* First, double-click with the left mouse button on the event. Second, you press the __Modify__ button.
 ![image](https://user-images.githubusercontent.com/89577799/167433357-08e0c8b8-5d88-4eb4-8a84-9c6e3740431b.png) 
-Afetr pressing the __Modify__ button, the following window will show up, you can type up the time slot you want.  
+* Afetr pressing the __Modify__ button, the following window will show up, you can type up the time slot you want.  
 __Note__: The name of the event's name should be the same  
-![image](https://user-images.githubusercontent.com/89577799/167434398-fa261941-d611-43de-9d2e-ae72c8af6fd9.png)
-
-
+![image](https://user-images.githubusercontent.com/89577799/167434398-fa261941-d611-43de-9d2e-ae72c8af6fd9.png)  
+* Afetr pressing the __Modify__ button, the time slot is changed.
+![image](https://user-images.githubusercontent.com/89577799/167435229-6daa97b4-6acf-45c9-a980-7039ebae4103.png)  
 ### __Search__  
   
 # __The csv file used in this calendar__
