@@ -15,8 +15,8 @@ Users can add, delete, modify, and search for the events they created in the GUI
       <ul>
       </ul>
     </li>
-    <li><a href="#visualization">Visualization</a></li>
-    <li><a href="#conclusion">Conclusion</a></li>
+    <li><a href="#the-instructions-for-using-this-GUI">The Instructions for using this GUI</a></li>
+    <li><a href="#the-csv-file-used-in-this-calendar">The csv file used in this calendar</a></li>
   </ol>
 </details>
 
@@ -24,3 +24,5 @@ Users can add, delete, modify, and search for the events they created in the GUI
 This repository is a tutorial for the __Customized Calendar__ using python.
 # __The GUI__
 This __Graphical User Interface__ is convenient and easily used for every users.
+# __The Instructions for using this GUI__
+#__The csv file used in this calendar__
