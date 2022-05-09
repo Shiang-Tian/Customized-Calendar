@@ -68,6 +68,6 @@ After you add the events into so many days, but you forget which event is on whi
 ![image](https://user-images.githubusercontent.com/89577799/167438743-f9fcac4c-0868-4979-a08e-b3f165481430.png)  
 * After pressing the __Search__ button, you will see the folowing window:
 ![image](https://user-images.githubusercontent.com/89577799/167439592-7e4b6b43-0325-408f-bb46-1161418c9e80.png)  
-* Then you type the event's name, and press the __Search__ button, it will tell you on what day you will have the shooting day  
+* Then you type the event's name, and press the __Search__ button, it will tell you on what day and what time you will have the shooting day  
 ![image](https://user-images.githubusercontent.com/89577799/167439797-6b55c538-3edb-4b40-a7a5-89115ec33469.png)  
 # __The csv file used in this calendar__
