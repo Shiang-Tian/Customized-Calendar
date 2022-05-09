@@ -38,6 +38,6 @@ You can type up __the time slot__ and __the name of the event__
 After adding the event into the calendar, the color of the date will change, and you can see the details of the event on the left-hand-side.
 ## __Left-hand-side__
 * The left-hand-side of this interface is the details of the events at the specific date, and there are four buttons below.
-  '__Delete__'
+  "__Delete__"
   
 # __The csv file used in this calendar__
