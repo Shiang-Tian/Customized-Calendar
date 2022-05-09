@@ -1,7 +1,7 @@
 # Customized-Calendar
 Users can add, delete, modify, and search for the events they created in the GUI
 ![image](https://user-images.githubusercontent.com/89577799/167335469-d17a9fae-d4cc-44aa-bcde-8d871bd006c7.png)
-## Tutorial of the newsvendor problem with barter exchange  
+## Tutorial of this customized calendar
 <details open="open">
   <summary><b>Table of Contents</b></summary>
   <ol>
@@ -27,6 +27,7 @@ Users can add, delete, modify, and search for the events they created in the GUI
     <li><a href="#conclusion">Conclusion</a></li>
   </ol>
 </details>
-# Introduction
+
+#__Introduction__
 
 This repository is a tutorial for the implementation of __The newsvendor problem with barter exchange__ based on the design of the paper "The newsvendor problem with barter exchange"  by [Hua, G., Zhang, Y., Chang, T.C.E, Wang, S., & Zhang, J. (2020)]("https://www.sciencedirect.com/science/article/abs/pii/S0925527313001837?via%3Dihub"). I wrote this tutorial as a showcase of application for the course "_Operations Research Applications and Implementation_" intructed by professor _Chia-Yen Lee_.
