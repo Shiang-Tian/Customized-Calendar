@@ -51,9 +51,15 @@ Typing up the event name, and press the __Delete__ button
 ### __Load__  
 If adding an event into the calendar at 2022/5/22, and press the load button, it will show how many days left of the event.  
 ![image](https://user-images.githubusercontent.com/89577799/167354073-df236a5a-438f-46eb-abcc-d2ee45f6b5b1.png)  
-### __Modeify__  
+### __Modify__  
 Afetr you add the new event into the calendar, but you want to modify the time slot, you can use this button to revise the time.  
-![image](https://user-images.githubusercontent.com/89577799/167433357-08e0c8b8-5d88-4eb4-8a84-9c6e3740431b.png)  
+
+First, double-click with the left mouse button on the event. Second, you press the __Modify__ button.
+![image](https://user-images.githubusercontent.com/89577799/167433357-08e0c8b8-5d88-4eb4-8a84-9c6e3740431b.png) 
+Afetr pressing the __Modify__ button, the following window will show up, you can type up the time slot you want.
+__Note__: The name of the event's name should be the same  
+![image](https://user-images.githubusercontent.com/89577799/167434398-fa261941-d611-43de-9d2e-ae72c8af6fd9.png)
+
 
 ### __Search__  
   
