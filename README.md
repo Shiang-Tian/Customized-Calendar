@@ -15,7 +15,12 @@ Users can add, delete, modify, and search for the events they created in the GUI
       <ul>
       </ul>
     </li>
-    <li><a href="#the-instructions-for-using-this-GUI">The Instructions for using this GUI</a></li>
+    <li>
+      <a href="#the-instructions-for-using-this-GUI">The Instructions for using this GUI</a>
+      <ul>
+        <li><a href="#right-hand-side">Right-hand-side</a></li>
+      </ul>
+    </li>
     <li><a href="#the-csv-file-used-in-this-calendar">The csv file used in this calendar</a></li>
   </ol>
 </details>
