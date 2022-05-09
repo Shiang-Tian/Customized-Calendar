@@ -21,8 +21,7 @@ Users can add, delete, modify, and search for the events they created in the GUI
           <ul>
             <li><a href="#buttons">Buttons</a></li>
           </ul>
-        </li>
-        
+        </li>  
       </ul>
     </li>
     <li><a href="#the-csv-file-used-in-this-calendar">The csv file used in this calendar</a></li>
