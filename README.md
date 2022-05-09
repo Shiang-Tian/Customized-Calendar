@@ -47,7 +47,7 @@ After adding the event into the calendar, the color of the date will change, and
 ![image](https://user-images.githubusercontent.com/89577799/167351638-b38660d0-7503-41f3-ad22-efce9cf4e994.png)  
 * After pressing the button, you will see the following window:  
 ![image](https://user-images.githubusercontent.com/89577799/167351832-2f24ab70-9338-4dca-849b-6c141ddf46e8.png)  
-* Typing up the event name you want to delete, and press the __Delete__ button. The event on the left-hand-side is disappeared, and the color on 2022/5/20 is gone, too.  
+* Typing up the event name you want to delete, and press the __Delete__ button. The event on the left-hand-side is disappeared, and the color on 2022/5/9 is gone, too.  
 ![image](https://user-images.githubusercontent.com/89577799/167436578-8d0ee7f4-5dbe-4dc1-8b41-963406329fa8.png)  
 ### __Load__  
 * If adding an event into the calendar at 2022/5/22, and press the load button, it will show how many days left of the event.  
