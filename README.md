@@ -25,5 +25,5 @@ This repository is a tutorial for the __Customized Calendar__ using python.
 # __The GUI__
 This __Graphical User Interface__ is convenient and easily used for every users.
 # __The Instructions for using this GUI__
-*The right-hand-side of this interface is the calendar, default is today's date 
+* The right-hand-side of this interface is the calendar, default is today's date 
 # __The csv file used in this calendar__
