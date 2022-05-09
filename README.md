@@ -42,8 +42,8 @@ After adding the event into the calendar, the color of the date will change, and
 Fist, select an event you want to delete, and press the delete button.
 ![image](https://user-images.githubusercontent.com/89577799/167351638-b38660d0-7503-41f3-ad22-efce9cf4e994.png)  
 After pressing the button, you will see the following window:  
-![image](https://user-images.githubusercontent.com/89577799/167351832-2f24ab70-9338-4dca-849b-6c141ddf46e8.png)
-Typing up the event name, and press the __Delete__ button
+![image](https://user-images.githubusercontent.com/89577799/167351832-2f24ab70-9338-4dca-849b-6c141ddf46e8.png)  
+Typing up the event name, and press the __Delete__ button  
 `Load`  
 
 `Modify`
