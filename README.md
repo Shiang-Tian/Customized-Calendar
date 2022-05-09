@@ -43,13 +43,14 @@ After adding the event into the calendar, the color of the date will change, and
 * The left-hand-side of this interface is the details of the events at the specific date, and there are four buttons below.  
 ### __Buttons__
 ### __Delete__  
-Fist, select an event you want to delete, and press the delete button.
+* Fist, select an event you want to delete, and press the delete button.
 ![image](https://user-images.githubusercontent.com/89577799/167351638-b38660d0-7503-41f3-ad22-efce9cf4e994.png)  
-After pressing the button, you will see the following window:  
+* After pressing the button, you will see the following window:  
 ![image](https://user-images.githubusercontent.com/89577799/167351832-2f24ab70-9338-4dca-849b-6c141ddf46e8.png)  
-Typing up the event name, and press the __Delete__ button  
+* Typing up the event name, and press the __Delete__ button. The event on the left-hand-side is disappeared, and the color on 2022/5/20 is gone, too.    
+![image](https://user-images.githubusercontent.com/89577799/167435819-925ea712-c812-45ea-b991-6d37c9070969.png)  
 ### __Load__  
-If adding an event into the calendar at 2022/5/22, and press the load button, it will show how many days left of the event.  
+* If adding an event into the calendar at 2022/5/22, and press the load button, it will show how many days left of the event.  
 ![image](https://user-images.githubusercontent.com/89577799/167354073-df236a5a-438f-46eb-abcc-d2ee45f6b5b1.png)  
 ### __Modify__  
 Afetr you add the new event into the calendar, but you want to modify the time slot, you can use this button to revise the time.  
