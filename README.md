@@ -48,10 +48,11 @@ Fist, select an event you want to delete, and press the delete button.
 After pressing the button, you will see the following window:  
 ![image](https://user-images.githubusercontent.com/89577799/167351832-2f24ab70-9338-4dca-849b-6c141ddf46e8.png)  
 Typing up the event name, and press the __Delete__ button  
-#### __Load__ 
-
+#### __Load__  
+If adding an event into the calendar at 2022/5/22, and press the load button, it will show how many days left of the event.  
+![image](https://user-images.githubusercontent.com/89577799/167354073-df236a5a-438f-46eb-abcc-d2ee45f6b5b1.png)  
 #### __Modeify__ 
 
-`Search`  
+#### __Search__  
   
 # __The csv file used in this calendar__
