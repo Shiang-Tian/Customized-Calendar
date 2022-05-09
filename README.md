@@ -53,7 +53,7 @@ After adding the event into the calendar, the color of the date will change, and
 * If adding an event into the calendar at 2022/5/22, closing the program and re-running it again and pressing the load button, it will show the event you added and how many days left of the event.  
 ![image](https://user-images.githubusercontent.com/89577799/167354073-df236a5a-438f-46eb-abcc-d2ee45f6b5b1.png)  
 ### __Modify__  
-Afetr you add the new event into the calendar, but you want to modify the time slot, you can use this button to revise the time.  
+After you add the new event into the calendar, but you want to modify the time slot, you can use this button to revise the time.  
 
 * First, double-click with the left mouse button on the event. Second, you press the __Modify__ button.
 ![image](https://user-images.githubusercontent.com/89577799/167433357-08e0c8b8-5d88-4eb4-8a84-9c6e3740431b.png) 
