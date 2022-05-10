@@ -23,7 +23,11 @@
     </li>
     <li><a href="#the-csv-file-used-in-this-calendar">The csv file used in this calendar</a></li>
     <li>
-      <a href="#the-explanation-of-the-code">The explanation of the code</a> 
+      <a href="#the-explanation-of-the-code">The explanation of the code</a>
+      <ul>
+        <li><a href="#the-package-and-the-frame">The package and the frame</a></li>
+        <li><a href="#the-functions">The functions</a></li>
+      </ul>
     </li>
   </ol>
 </details>
@@ -76,6 +80,7 @@ After you add the events into so many days, but you forget which event is on whi
     * When you press the __Add__ button on the right-hand-side and adding the event on the specific date, the event will be stored in the csv file   
 2. After you re-run the program, and press the __Load__ button, you will see the details of the event you already added  
 # __The explanation of the code__  
+## __The package and the frame__  
 1. First, we import the __tkinter__, __tkcalendar__, __datetime__, __time__, and __pandas__
 ```python
 from tkinter import *
@@ -132,7 +137,8 @@ RightFrame1a.pack(side=TOP, padx=5, pady=6)
 #The title on the top of the window
 lblTitle = Label(TitleFrame, font=("arial", 35, "bold"), text="Customized Calendar in Python", bd=7)
 lblTitle.grid(row=0, column=0, padx=88)
-#To show how many days left on the left-hand-side
+#To show how many days left for the specific event on the left-hand-side
 lblCountDown = Label(LeftFrame1, font=("arial", 20, "bold"), text="Activity Countdown", bd=7)
 lblCountDown.grid(row=1, column=0)
 ```
+## __The functions__  
