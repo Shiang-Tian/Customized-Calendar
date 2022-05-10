@@ -6,9 +6,7 @@
   <ol>
     <li>
       <a href="#introduction">Introduction</a>
-      <ul> 
     </li>
-      </ul>
     <li>
       <a href="#the-gui">The GUI</a> 
     </li>
@@ -24,6 +22,9 @@
       </ul>
     </li>
     <li><a href="#the-csv-file-used-in-this-calendar">The csv file used in this calendar</a></li>
+    <li>
+      <a href="#the-explanation-of-the-code">The explanation of the code</a> 
+    </li>
   </ol>
 </details>
 
@@ -72,5 +73,6 @@ After you add the events into so many days, but you forget which event is on whi
 ![image](https://user-images.githubusercontent.com/89577799/167439797-6b55c538-3edb-4b40-a7a5-89115ec33469.png)  
 # __The csv file used in this calendar__
 1. The csv file used in this calendar is to store the event on the specific date  
-  * When you press the __Add__ button on the right-hand-side and adding the event on the specific date, the event will be stored in the csv file   
-2. After you re-run the program, and press the __Load__ button, you will see the details of the event you already added
+    * When you press the __Add__ button on the right-hand-side and adding the event on the specific date, the event will be stored in the csv file   
+2. After you re-run the program, and press the __Load__ button, you will see the details of the event you already added  
+# __The explanation of the code__
