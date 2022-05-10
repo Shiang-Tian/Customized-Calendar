@@ -142,3 +142,35 @@ lblCountDown = Label(LeftFrame1, font=("arial", 20, "bold"), text="Activity Coun
 lblCountDown.grid(row=1, column=0)
 ```
 ## __The functions__  
+* The function for the __Exit__ button
+```python
+def iExit():
+    iExit = tkinter.messagebox.askyesno(
+        "Customized Calendar", "Confirm if you want to exit"
+    )
+    if iExit > 0:
+        root.destroy()
+        return
+```
+* The function for the __Load__ button
+```python
+todos = {}
+
+def insert_Data_timetable():
+    global marked_day
+    day = str(cal.selection_get())
+    
+    if day != marked_day:
+        countdown_label.config(text = "No schedules")
+        for index, row in schedules.iterrows():
+            if day == row["date"]:
+                treev.insert("", index , values = (row['time'], row['event']))
+                Days = (cal.selection_get() - date.today()).days
+                countdown_label.config(text = str(Days)+ " days left")
+                marked_day = day
+    else:
+        pass 
+      
+countdown_label = Label(LeftFrame1, text = " ", font = ("Helvetica", 14))
+countdown_label.grid(row=8, column=0, sticky=W, padx=5)
+```
