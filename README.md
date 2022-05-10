@@ -76,6 +76,7 @@ After you add the events into so many days, but you forget which event is on whi
     * When you press the __Add__ button on the right-hand-side and adding the event on the specific date, the event will be stored in the csv file   
 2. After you re-run the program, and press the __Load__ button, you will see the details of the event you already added  
 # __The explanation of the code__  
+1. First, we import the tkinter, tkcalendar, datetime, time, and pandas
 ```python
 from tkinter import *
 from tkinter import ttk
@@ -86,7 +87,8 @@ from datetime import date, datetime, timedelta
 from time import strftime
 import os.path
 import pandas as pd
-
+```
+```python
 global schedule
 if os.path.isfile("./schedules_table.csv"):
     schedules = pd.read_csv("./schedules_table.csv", index_col=0)
