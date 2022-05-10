@@ -88,7 +88,7 @@ from time import strftime
 import os.path
 import pandas as pd
 ```
-2. This is for writing the csv files we need in this calendar
+2. This is for writing the csv file we need in this calendar
 ```python
 global schedule
 if os.path.isfile("./schedules_table.csv"):
