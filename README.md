@@ -77,4 +77,25 @@ After you add the events into so many days, but you forget which event is on whi
 2. After you re-run the program, and press the __Load__ button, you will see the details of the event you already added  
 # __The explanation of the code__  
 ```python
+from tkinter import *
+from tkinter import ttk
+from tkcalendar import *
+from tkcalendar import Calendar, DateEntry
+import tkinter.messagebox
+from datetime import date, datetime, timedelta
+from time import strftime
+import os.path
+import pandas as pd
+
+global schedule
+if os.path.isfile("./schedules_table.csv"):
+    schedules = pd.read_csv("./schedules_table.csv", index_col=0)
+else:
+    schedules = pd.DataFrame(columns=["event", "date", "time"])
+    schedules.to_csv("./schedules_table.csv")
+
+global marked_day
+marked_day = ''
+global add_time
+add_time = 0
 ```
