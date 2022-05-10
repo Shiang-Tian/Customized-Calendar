@@ -76,7 +76,7 @@ After you add the events into so many days, but you forget which event is on whi
     * When you press the __Add__ button on the right-hand-side and adding the event on the specific date, the event will be stored in the csv file   
 2. After you re-run the program, and press the __Load__ button, you will see the details of the event you already added  
 # __The explanation of the code__  
-1. First, we import the tkinter, tkcalendar, datetime, time, and pandas
+1. First, we import the __tkinter__, __tkcalendar__, __datetime__, __time__, and __pandas__
 ```python
 from tkinter import *
 from tkinter import ttk
@@ -88,6 +88,7 @@ from time import strftime
 import os.path
 import pandas as pd
 ```
+2. This is for writing the csv files we need in this calendar
 ```python
 global schedule
 if os.path.isfile("./schedules_table.csv"):
@@ -100,4 +101,38 @@ global marked_day
 marked_day = ''
 global add_time
 add_time = 0
+```
+3. This is the whole frame of the calendar
+```python
+root = Tk()
+root.resizable(True, True)
+space = " "
+root.title(185 * space + "Customized Calendar")
+
+root.geometry("1500x900+56+0")
+
+MainFrame = Frame(root, bd=10, width=400, height=700, relief=RIDGE, bg="cadetblue")
+MainFrame.grid()
+
+TitleFrame = Frame(MainFrame, bd=7, width=400, height=100, relief=RIDGE)
+TitleFrame.grid(row=0, column=0)
+
+TopFrame3 = Frame(MainFrame, bd=5, width=400, height=500, relief=RIDGE)
+TopFrame3.grid(row=1, column=0)
+
+LeftFrame = Frame(TopFrame3, bd=5, width=400, height=600, padx=2, bg="cadet blue", relief=RIDGE)
+LeftFrame.pack(side=LEFT)
+LeftFrame1 = Frame(LeftFrame, bd=5, width=200, height=180, padx=2, pady=4, relief=RIDGE)
+LeftFrame1.pack(side=TOP, padx=10, pady=12)
+#Right-hand-side
+RightFrame1 = Frame(TopFrame3, bd=5, width=50, height=400, padx=2, bg="cadet blue", relief=RIDGE)
+RightFrame1.pack(side=RIGHT, padx=2)
+RightFrame1a = Frame(RightFrame1, bd=5, width=50, height=300, padx=2, pady=2, relief=RIDGE)
+RightFrame1a.pack(side=TOP, padx=5, pady=6)
+
+lblTitle = Label(TitleFrame, font=("arial", 35, "bold"), text="Customized Calendar in Python", bd=7)
+lblTitle.grid(row=0, column=0, padx=88)
+
+lblCountDown = Label(LeftFrame1, font=("arial", 20, "bold"), text="Activity Countdown", bd=7)
+lblCountDown.grid(row=1, column=0)
 ```
