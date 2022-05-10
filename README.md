@@ -129,10 +129,10 @@ RightFrame1 = Frame(TopFrame3, bd=5, width=50, height=400, padx=2, bg="cadet blu
 RightFrame1.pack(side=RIGHT, padx=2)
 RightFrame1a = Frame(RightFrame1, bd=5, width=50, height=300, padx=2, pady=2, relief=RIDGE)
 RightFrame1a.pack(side=TOP, padx=5, pady=6)
-
+#The title on the top of the window
 lblTitle = Label(TitleFrame, font=("arial", 35, "bold"), text="Customized Calendar in Python", bd=7)
 lblTitle.grid(row=0, column=0, padx=88)
-
+#To show how many days left on the left-hand-side
 lblCountDown = Label(LeftFrame1, font=("arial", 20, "bold"), text="Activity Countdown", bd=7)
 lblCountDown.grid(row=1, column=0)
 ```
