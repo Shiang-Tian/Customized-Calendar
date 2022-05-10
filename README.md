@@ -71,3 +71,6 @@ After you add the events into so many days, but you forget which event is on whi
 * Then you type the event's name, and press the __Search__ button, it will tell you on what day and what time you will have the shooting day  
 ![image](https://user-images.githubusercontent.com/89577799/167439797-6b55c538-3edb-4b40-a7a5-89115ec33469.png)  
 # __The csv file used in this calendar__
+1. The csv file used in this calendar is to store the event on the specific date  
+  * When you press the __Add__ button on the right-hand-side and adding the event on the specific date, the event will be stored in the csv file   
+2. After you re-run the program, and press the __Load__ button, you will see the details od the event you already added
