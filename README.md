@@ -119,7 +119,7 @@ TitleFrame.grid(row=0, column=0)
 
 TopFrame3 = Frame(MainFrame, bd=5, width=400, height=500, relief=RIDGE)
 TopFrame3.grid(row=1, column=0)
-
+#Left-hand-side
 LeftFrame = Frame(TopFrame3, bd=5, width=400, height=600, padx=2, bg="cadet blue", relief=RIDGE)
 LeftFrame.pack(side=LEFT)
 LeftFrame1 = Frame(LeftFrame, bd=5, width=200, height=180, padx=2, pady=4, relief=RIDGE)
